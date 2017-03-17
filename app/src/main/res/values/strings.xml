@@ -1,0 +1,7 @@
+<resources>
+    <string name="store_name">STL SkateShop</string>
+    <string name="app_name">STL Skate Shop</string>
+    <string name="description">Description: Delivering all the skater needs for sweet rides!</string>
+    <string name="location">Location: 3222 Beethoven Street</string>
+    <string name="phone">Phone: 322-222-2393</string>
+</resources>
